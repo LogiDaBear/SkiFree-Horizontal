@@ -1,6 +1,10 @@
-# 🏂SkiFree-Horizontal
+# 🏂SkiFree-Horizontal 
 ### Author: Logan Reese
-👇My personal implementation of SkiFree from '91👇
+
+
+## A personal implementation of SkiFree from '91👇
+
+
 ![Ski-Free](image.png)
 
 
